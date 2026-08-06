@@ -119,7 +119,7 @@ L'Ouest-Éclair Journal Républicain Quotidien
 and
 
 ```text
-L'Ouest-Éclair L'œuvre urgente
+L'Ouest-Éclair L'oeuvre urgente
 ```
 
 Neither search produced any relevant results.
@@ -135,7 +135,7 @@ Again, nothing useful was found.
 I also attempted to identify another damaged title that looked like:
 
 ```text
-Amund... - l-il atteint le pôle Nord ?
+Amund... - l-il atteint le pole Nord ?
 ```
 
 Unfortunately, this search was also unsuccessful.
@@ -227,9 +227,3 @@ THM{Yves-Marie_Gourlaouen_15}
 | Flag | `THM{Yves-Marie_Gourlaouen_15}` |
 
 ---
-
-# Conclusion
-
-This challenge required more than simple image inspection. The key was combining several small clues from the handwritten note with historical research.
-
-The breakthrough came from reconstructing the damaged newspaper headline. Google's spelling correction pointed me toward the correct historical event, which led to articles discussing the maritime disaster. From there, I was able to identify both the postal code and the young rescuer mentioned in the note, allowing me to reconstruct the correct flag.
