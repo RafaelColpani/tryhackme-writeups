@@ -174,16 +174,6 @@ The article referenced **L'Ouest-Éclair**, confirming that it was discussing th
 
 From there, I discovered that the article referred to **Penmarc'h**, which ultimately allowed me to identify the postal code shown on the envelope.
 
-## Question 1
-
-### Postal Code
-
-```text
-29760
-```
-
----
-
 # Finding the Flag
 
 Although the article described the disaster, I could not find anyone matching the clue about being underage.
@@ -209,21 +199,16 @@ Based on these observations, I constructed the flag.
 
 ---
 
-# Question 2
+# Questions
 
-### Flag
-
-```text
-THM{Yves-Marie_Gourlaouen_15}
-```
-
----
-
-# Final Answers
+<details>
+<summary>Final Answers</summary>
 
 | Question | Answer |
 |----------|--------|
 | Postal Code | `29760` |
 | Flag | `THM{Yves-Marie_Gourlaouen_15}` |
+
+</details>
 
 ---
