@@ -11,9 +11,12 @@ TryHackMe: [Rafael Colpani](https://tryhackme.com/p/rafaelcolpani?utm_source=cha
 ```text
 write-ups/
 │
-├── blue-team/
-├── purple-team/
-└── red-team/
+├── challenges/
+	├── blue-team/
+	├── red-team/
+	└── purple-team/
+├── events/ 
+└── hacktivities/ 
 ```
 
 ### Blue Team
