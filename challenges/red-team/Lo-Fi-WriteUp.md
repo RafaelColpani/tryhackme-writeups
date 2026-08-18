@@ -11,9 +11,10 @@
 # Lo-Fi
 **Date:** 2026-04-11
 
-# ** Description **
+# Description
 
-> ** Room Briefing: **
+> **Room Briefing:**
+> 
 > Want to hear some lo-fi beats, to relax or study to? We've got you covered!
 >
 > Access this challenge by deploying both the vulnerable machine by pressing the green "Start Lab Machine" button located within this task, and the TryHackMe AttackBox by pressing the "Start AttackBox" button located at the top-right of the page.
@@ -42,11 +43,11 @@ The testing was performed only against the machine provided by TryHackMe.
 
 For this room, I followed a simple penetration testing process:
 
-1. **Reconnaissance** - Identify open ports and services.
-2. **Enumeration** - Investigate the web server and application.
-3. **Vulnerability Discovery** - Look for interesting files, parameters, and possible vulnerabilities.
-4. **Exploitation** - Test and exploit the vulnerability found.
-5. **Post-Exploitation** - Use the access obtained to find the flag.
+1. **Reconnaissance:** Identify open ports and services.
+2. **Enumeration:** Investigate the web server and application.
+3. **Vulnerability Discovery:** Look for interesting files, parameters, and possible vulnerabilities.
+4. **Exploitation:** Test and exploit the vulnerability found.
+5. **Post-Exploitation:** Use the access obtained to find the flag.
 
 The main tools I used were:
 
